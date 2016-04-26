@@ -9,7 +9,7 @@ Uses Mondernizr to feature detect support for CSS media queries.
 
 ## Polyfills
 Uses Respond to manage CSS media queries.
-https://github.com/scottjeh1/Respond
+https://github.com/scottjehl/Respond
 
 ##CSS Reset
 https://html5doctor.com/html-5-reset-stylesheet/
